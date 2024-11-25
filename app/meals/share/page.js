@@ -1,3 +1,5 @@
+"use client";
+
 import ImagePicker from "@/app/component/meals/image-picker";
 import classes from "./page.module.css";
 import { shareMeal } from "@/lib/action";
